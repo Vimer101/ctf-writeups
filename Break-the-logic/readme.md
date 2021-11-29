@@ -9,6 +9,7 @@ When we go to the website, it said that `Aren't you ina wrong place!?`. That int
 So i used gobuster to find another endpoints,
 
 Command:
+
 `gobuster -u "https://ch1.sbug.se/" -w directory-list-2.3-medium.txt` (**can also use dirb. dirb https://ch1.sbug.se/ **)
 
 Output:
