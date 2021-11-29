@@ -13,7 +13,8 @@ Command:
 
 Output:
 ```/submit (Status: 200)
-/admin (Status: 301)```
+/admin (Status: 301)
+```
 
 As, you can see there is interesting two endpoints called `/submit` and `/admin` endpoints.
 
