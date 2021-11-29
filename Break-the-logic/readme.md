@@ -4,7 +4,7 @@ Challenge-link: https://ch1.sbug.se/
 
 # Solution
 
-When we go to the website, it said that 'Aren't you ina wrong place!?'. That interesting right?
+When we go to the website, it said that `Aren't you ina wrong place!?`. That interesting right?
 
 So i used gobuster to find another endpoints,
 
