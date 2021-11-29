@@ -36,7 +36,7 @@ we can see the following comment
 
 So, as you saw in above, csrf token is interesing, so that can be admin's csrf token value.
 
-So, i changed the csrf token's value with it(4JqorR6IXT4swdwN0qTPTwxtinom3AbZ5wNlEQjrPzEVJUUmDhVPFX21P3Xsnm04) and refresh the page(at /submit endpoint)
+So, i changed the csrf token's value with it(4JqorR6IXT4swdwN0qTPTwxtinom3AbZ5wNlEQjrPzEVJUUmDhVPFX21P3Xsnm04) and refresh the page(**/submit**)
 
 and got flag by viewing source
 
