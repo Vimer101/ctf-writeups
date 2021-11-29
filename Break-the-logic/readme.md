@@ -12,7 +12,8 @@ Command:
 `gobuster -u "https://ch1.sbug.se/" -w directory-list-2.3-medium.txt` (**can also use dirb. dirb https://ch1.sbug.se/ **)
 
 Output:
-```/submit (Status: 200)
+```
+/submit (Status: 200)
 /admin (Status: 301)
 ```
 
