@@ -24,7 +24,7 @@ So, if we look at the **/admin** endpoints, there is a admin login panel
 
 I tried sql injections, but not work.
 
-if you look at the cookie part from browser developer tool, there is a csrf token, hmm that interesting. 
+**if you look at the cookie part from browser developer tool, there is a csrf token, hmm that interesting.** 
 
 So, if we look at the `/submit` endpoints, there is nothing in page, if you look at the source with (ctrl+u),
 
